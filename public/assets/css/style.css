@@ -144,7 +144,7 @@ hr.hr {
 }
 
 .bg-color-1 {
-    background-color: #fa6262;
+    background-color: #2d9fff;
 }
 
 /*-------margins padding--------*/
@@ -272,15 +272,23 @@ Buttons
     box-shadow: 0 5px 15px rgba(250, 98, 98, 0.4);
 }
 
+
+.btn-blue {
+    background-color: #212bfa;
+    color: #fff;
+    box-shadow: 0 5px 15px rgba(6, 15, 99, 0.86);
+}
+
+
 .btn-red:hover {
-    background-color: #fa6262;
+    background-color: #2d9fff;
     color: #fff;
     box-shadow: 0 8px 25px rgba(250, 98, 98, 0.55);
 }
 .btn-white {
     width:100%;
     background-color: #fff;
-    color: #fa6262;
+    color: #2d9fff;
     border: 1px solid transparent;
 }
 .btn-white:hover,
@@ -320,7 +328,7 @@ Preloader page
  width: 56px;
  height: 56px;
  border: 8px solid rgba(250, 98, 98, 0.25);
- border-top-color: #fa6262;
+ border-top-color: #2d9fff;
  border-radius: 50%;
  position: relative;
  animation: rotate 1s linear infinite;
@@ -430,7 +438,7 @@ Navigation
     padding-right: 8px;
 }
 .panel-menu  {
- background-color:#fa6262;    
+ background-color: #2d9fff;
 } 
 .panel.right.active{
     right: 0;
@@ -791,7 +799,7 @@ margin-bottom: 50px;
     position: absolute;
     left: -5px;
     top: 3px;
-    color: #fa6262;
+    color: #2d9fff;
     display: inline-block;
     font-size: 18px;
     font-weight: 300;
@@ -813,7 +821,7 @@ margin-bottom: 50px;
 }
 
 .progrees-bar-content .progress-bar {
-    background-color: #fa6262;
+    background-color: #2d9fff;
     border-radius: 23px;
     -moz-border-radius: 23px;
     -webkit-border-radius: 23px;
@@ -844,7 +852,7 @@ margin-bottom: 50px;
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-    border:1px solid #fa6262;
+    border:1px solid #2d9fff;
     border-radius: 50%;
 }
 .service-block {
@@ -926,9 +934,9 @@ Projects
 .filter-tab .filter-btn:hover,
 .filter-tab .filter-btn:active,
 .filter-tab .filter-btn.active{
-    background-color: #fa6262;
+    background-color: #2d9fff;
     color: #fff;
-    box-shadow: 0 8px 25px rgba(250, 98, 98, 0.55);
+    box-shadow: 0 8px 25px rgba(85, 141, 250, 0.55);
 }
 .single-portfolio-content h3, #projets h3 {
     margin-top: 30px;
@@ -1007,7 +1015,7 @@ Projects
     vertical-align: middle;
     margin: 12px 8px;
     font-size: 15px;
-    color: #fa6262;
+    color: #2d9fff;
     background: #fff;
     transition: all .4s;
     -webkit-transition: all .4s;
@@ -1223,7 +1231,7 @@ border-radius:4px;
     overflow: hidden;
 }
 .info-portfolio  ul li a{
-   color:#fa6262; 
+   color:#2d9fff;
 }
 .related-projects .project_product{
     margin-bottom: 0;
@@ -1310,7 +1318,7 @@ Team
      text-align: left;
 }
 .team-bloc-inner span{
-    color: #fa6262;
+    color: #2d9fff;
     font-style: italic;
 }
 .team-bloc img{
@@ -1354,7 +1362,7 @@ Blog
     color: #fff;
     box-shadow: 0 8px 25px rgba(250, 98, 98, 0.55);
     display: inline-block;
-    background-color: #fa6262;
+    background-color: #2d9fff;
     position: absolute;
     right: 15px;
     bottom: 15px;
@@ -1387,7 +1395,7 @@ Blog
 
 .blog-inner .comment-blog ul li a i {
     padding-right: 5px;
-    color: #fa6262;
+    color: #2d9fff;
 }
 .blog-summary{
  text-align: left;
@@ -1431,10 +1439,10 @@ display:none;
     -moz-border-radius: 10px;
 }
 .blog-summary a{
- color:#fa6262;   
+ color:#2d9fff;
 }
 .date {
- background: #fa6262;
+ background: #2d9fff;
     display: inline-block;
     border-radius: 20px;
     font-size: 13px;
@@ -1541,8 +1549,8 @@ display:none;
 }
 .tags-inner a:hover, 
 .tags-inner a:focus{
-    border-color:#fa6262;  
-    background-color: #fa6262;  
+    border-color:#2d9fff;
+    background-color: #2d9fff;
     color:#fff;
 }
 .sidebar-post-inner {
@@ -2064,8 +2072,8 @@ Footer
 .btn.btn-google-plus:hover, .btn.btn-google-plus:focus, .btn.btn-google-plus:hover{
 
   color: white;
-  background-color: #dd4b39;
-  border-color: #dd4b39;
+  background-color: #2675ff;
+  border-color: #2675ff;
 }
 
 .btn.btn-instgram:hover, .btn.btn-instgram:focus, .btn.btn-instgram:hover{
@@ -2087,7 +2095,7 @@ Footer
 .list-social a{
   background-color: #fff;
   width:35px;
-  color:#fa6262;
+  color:#2d9fff;
   line-height: 35px;
   font-size: 14px;
   padding: 0;
@@ -2137,7 +2145,7 @@ footer p.sucess-message {
 
 }
 #scrollUp{
-  background: #fa6262;
+  background: #2d9fff;
   border-radius: 4px;
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
@@ -2199,9 +2207,9 @@ footer p.sucess-message {
   -wbekit-border-radius: 4px;
   padding:0 15px 0 15px;
   color:#fff;
-  background: #fa6262;
+  background: #2d9fff;
 }
 .btn-subscribe:hover,.btn-subscribe:focus, .btn-subscribe:active{
-  background: #fa6262;
+  background: #2d9fff;
  color:#fff;
 }
