@@ -22,7 +22,7 @@
                             <div class="item">
                                 <div class="avatar-item">
 
-                                    <img src="assets/images/testimonial/1.jpg" alt="">
+                                    <img src="/assets/images/testimonial/1.jpg" alt="">
 
 
 
@@ -61,7 +61,7 @@
 
                                 <div class="avatar-item">
 
-                                    <img src="assets/images/testimonial/2.jpg" alt="">
+                                    <img src="/assets/images/testimonial/2.jpg" alt="">
 
                                 </div>
 
@@ -96,7 +96,7 @@
 
                                 <div class="avatar-item">
 
-                                    <img src="assets/images/testimonial/3.jpg" alt="">
+                                    <img src="/assets/images/testimonial/3.jpg" alt="">
 
 
 

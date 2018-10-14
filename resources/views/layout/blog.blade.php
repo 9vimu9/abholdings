@@ -23,7 +23,7 @@
                 <div class="blog-inner">
 
                     <div class="blog-image">
-                        <img src="assets/images/blog/blog1.jpg" alt="">
+                        <img src="/assets/images/blog/blog1.jpg" alt="">
 
                         <div class="blog-date">
                             <strong>15</strong>
@@ -61,7 +61,7 @@
                 <div class="blog-inner">
 
                     <div class="blog-image">
-                        <img src="assets/images/blog/blog2.jpg" alt="">
+                        <img src="/assets/images/blog/blog2.jpg" alt="">
 
                         <div class="blog-date">
                             <strong>15</strong>
@@ -99,7 +99,7 @@
                 <div class="blog-inner">
 
                     <div class="blog-image">
-                        <img src="assets/images/blog/blog3.jpg" alt="">
+                        <img src="/assets/images/blog/blog3.jpg" alt="">
 
                         <div class="blog-date">
                             <strong>15</strong>

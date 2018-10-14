@@ -7,7 +7,7 @@
             <div class="project-holder">
 
 
-                <img src="assets/images/portflio/{{$imageName}}" class="img-responsive" alt="" title="">
+                <img src="/assets/images/portflio/{{$folder}}/service_icon.jpg" class="img-responsive" alt="" title="">
 
                 <div class="text-holder">
                     <div class="text-holder-outer">
@@ -26,6 +26,7 @@
                         </div>
                     </div>
                 </div>
+                <div>{{$title}}</div>
 
 
 

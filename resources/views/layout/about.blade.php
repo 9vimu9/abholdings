@@ -9,85 +9,94 @@
 
                 <div class="col-lg-5 col-md-5">
 
+                    <h2 class="title-h2">Who we are</h2>
 
-                    <h2 class="title-h2">About us</h2>
-
-                    <p class="font-p mg-tp-30 mg-bt-30">
-
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-
+                    <p class="font-weight-bold mg-tp-30 mg-bt-20">
+                        <strong>AB Holdings</strong>  is an international merchant. We are a hub of diversified products and services.
                     </p>
 
-                    <p class="font-p mg-tp-30 mg-bt-30">
-
-                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
+                    <p class="font-weight-bold mg-tp-30 mg-bt-30">
+                        The blend embrace AB Automart, the partner in vehicle riding.Beloved Island the tourism mate.
+                        Spicy Kade the ultimate cuisine flavour provider and Camaro the tasty essence highlighter.
                     </p>
 
-                    <a href="" class="btn btn-blue">Get started</a>
+                    <p class="font-weight-bold mg-tp-30 mg-bt-30">
+                        Inaugural pursuit was in 2008 as "Ransali" in importing and exporting spices, vehicles and spare parts. In 2014 we became AB Holdings. Camaro the restaurant chain tied with us there. In 2016 AB Automart, in 2017 Beloved Island and in 2018 Spicy Kade grew as the nascents of AB Holdings.
+                    </p>
+
+
+                    <p class="font-weight-bold mg-tp-30 mg-bt-20">
+                        Today we are a heart winning products and service provider leading a way to betterment of the humankind.
+                    </p>
 
 
                 </div>
 
-                {{--<div class="col-lg-7 col-md-7">--}}
+                <div class="col-lg-7 col-md-7">
 
-                    {{--<div class="row">--}}
+                    <div class="row">
 
-                        {{--<div class="col-md-6 col-lg-6">--}}
-                            {{--<div class="icon-block ">--}}
+                        <div class="col-md-6 col-lg-6">
+                            <div class="icon-block ">
 
-                                {{--<img src="assets/images/browser.svg" alt="">--}}
-                                {{--<h3>WEB & MOBILE</h3>--}}
-                                {{--<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolore mque laudantium </p>--}}
+                                <img src="/assets/images/browser.svg" alt="">
+                                <h3>TOURISM</h3>
+                                <p>
+                                    Let the soul pour with exhilaration of belovedness inherited over generations.
+                                    Sri Lanka, the true beloved island of tourism
+                                </p>
 
-                            {{--</div>--}}
-
-
-                        {{--</div>--}}
-
-                        {{--<div class="col-md-6 col-lg-6">--}}
-
-                            {{--<div class="icon-block ">--}}
-
-                                {{--<img src="assets/images/startup.svg" alt="">--}}
-                                {{--<h3>OPTIMISATION</h3>--}}
-                                {{--<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolore mque laudantium--}}
-                                {{--</p>--}}
-
-                            {{--</div>--}}
+                            </div>
 
 
-                        {{--</div>--}}
+                        </div>
 
-                        {{--<div class="col-md-6 col-lg-6">--}}
-                            {{--<div class="icon-block ">--}}
+                        <div class="col-md-6 col-lg-6">
 
-                                {{--<img src="assets/images/bag.svg" alt="">--}}
-                                {{--<h3>BRANDING</h3>--}}
-                                {{--<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolore mque laudantium</p>--}}
+                            <div class="icon-block ">
 
-                            {{--</div>--}}
+                                <img src="/assets/images/startup.svg" alt="">
+                                <h3>VEHICLES</h3>
+                                <p>
+                                    A vehicle is your ardent partner in ride. To make your vehicle dream comes true AB Automart stands
+                                </p>
 
-
-                        {{--</div>--}}
-
-                        {{--<div class="col-md-6 col-lg-6">--}}
-                            {{--<div class="icon-block ">--}}
-
-                                {{--<img src="assets/images/chat.svg" alt="">--}}
-                                {{--<h3>Collaboration</h3>--}}
-                                {{--<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolore mque laudantium</p>--}}
-
-                            {{--</div>--}}
+                            </div>
 
 
-                        {{--</div>--}}
+                        </div>
 
-                    {{--</div>--}}
+                        <div class="col-md-6 col-lg-6">
+                            <div class="icon-block ">
+
+                                <img src="/assets/images/bag.svg" alt="">
+                                <h3>RESTAURANT CHAIN</h3>
+                                <p>Camaro the taste hub invites for sensation of scrummy-yummy steak revenous hunger.
+                                    Let mouth and throat to decide the delicious of bet steak ever
+                                </p>
+
+                            </div>
+/
+
+                        </div>
+
+                        <div class="col-md-6 col-lg-6">
+                            <div class="icon-block ">
+
+                                <img src="/assets/images/chat.svg" alt="">
+                                <h3>SPICES</h3>
+                                <p>The ultimate boutique experience of aromatic, amazeballs condiment are just easy now as never had.</p>
+
+                            </div>
+
+
+                        </div>
+
+                    </div>
 
 
 
-                {{--</div>--}}
+                </div>
 
 
             </div>

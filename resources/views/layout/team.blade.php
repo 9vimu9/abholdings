@@ -22,7 +22,7 @@
 
                         <div class="team-bloc">
 
-                            <img src="assets/images/team/team1.jpg" alt="">
+                            <img src="/assets/images/team/team1.jpg" alt="">
 
                             <div class="team-bloc-inner">
 
@@ -42,7 +42,7 @@
                     <div class="item">
 
                         <div class="team-bloc">
-                            <img src="assets/images/team/team4.jpg" alt="">
+                            <img src="/assets/images/team/team4.jpg" alt="">
 
                             <div class="team-bloc-inner">
 
@@ -63,7 +63,7 @@
                     <div class="item">
 
                         <div class="team-bloc">
-                            <img src="assets/images/team/team3.jpg" alt="">
+                            <img src="/assets/images/team/team3.jpg" alt="">
 
                             <div class="team-bloc-inner">
 

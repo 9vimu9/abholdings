@@ -3,33 +3,29 @@
 
     @include('layout.head')
 
-    <body data-spy="scroll" data-target=".navbar-default" data-offset="100">
 
-        {{--@include('layout.loader')--}}
 
-        <div class="warpper clearfix">
+<body data-spy="scroll" data-target=".navbar-default" data-offset="100">
 
-            @include('layout.sidebarmenu')
+    {{--@include('layout.loader')--}}
 
-            <div class="panel-overlay"></div>
 
-            @include('layout.navbar')
-            @include('layout.home')
-            @include('layout.about')
-            @include('layout.portfolio')
-            {{--@include('layout.about-p')--}}
-            @include('layout.video-features')
-            {{--@include('layout.services')--}}
-            {{--@include('layout.numbers')--}}
-            {{--@include('layout.team')--}}
-            @include('layout.testimonials')
-            @include('layout.contact')
-            @include('layout.sponsors')
+    <div class="warpper clearfix">
 
-        </div>
 
-        @include('layout.footer.master')
-        @include('layout.script')
 
-    </body>
+        <div class="panel-overlay"></div>
+
+        @include('layout.navbar')
+       @yield("content")
+        @include('layout.sidebarmenu')
+
+    </div>
+
+    @include('layout.footer.master')
+    @include('layout.script')
+
+    @yield("script")
+
+</body>
 </html>

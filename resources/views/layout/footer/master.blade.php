@@ -18,7 +18,7 @@
 
 
                                 <div class="logo-footer">
-                                    <img src="assets/images/logo-white.png" alt="">
+                                    <img src="/assets/images/logo-white.png" alt="">
 
                                 </div>
                                 <div class="text-footer">
@@ -67,11 +67,11 @@
                                 <ul class="list-contact">
 
                                     <li>
-                                        71 sdadf afdasfd dfasdrf, asa adfradr
+                                       {{config('details.address')}}
                                     </li>
-                                    <li>+89 233 2323 232</li>
+                                    <li> {{config('details.telephone')}}</li>
 
-                                    <li>contact@abholdings.com</li>
+                                    <li> {{config('details.email')}}</li>
 
 
                                 </ul>

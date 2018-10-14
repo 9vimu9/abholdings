@@ -28,7 +28,7 @@
                 <p></p>
 
 
-                <a href="" class="btn btn-blue">About us </a>
+
             </div>
 
 

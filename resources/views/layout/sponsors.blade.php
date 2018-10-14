@@ -11,34 +11,34 @@
                     <div class="item ">
 
                         <div class="client-item-img ">
-                            <img src="assets/images/clients/logo1.png" class="img-responsive " alt=" " title=" ">
+                            <img src="/assets/images/clients/logo1.png" class="img-responsive " alt=" " title=" ">
                         </div>
                     </div>
                     <div class="item ">
 
                         <div class="client-item-img ">
-                            <img src="assets/images/clients/logo2.png" class="img-responsive " alt=" " title=" ">
-                        </div>
-                    </div>
-
-                    <div class="item ">
-
-                        <div class="client-item-img ">
-                            <img src="assets/images/clients/logo3.png " class="img-responsive " alt=" " title=" ">
+                            <img src="/assets/images/clients/logo2.png" class="img-responsive " alt=" " title=" ">
                         </div>
                     </div>
 
                     <div class="item ">
 
                         <div class="client-item-img ">
-                            <img src="assets/images/clients/logo4.png" class="img-responsive " alt=" " title=" ">
+                            <img src="/assets/images/clients/logo3.png " class="img-responsive " alt=" " title=" ">
                         </div>
                     </div>
 
                     <div class="item ">
 
                         <div class="client-item-img ">
-                            <img src="assets/images/clients/logo5.png" class="img-responsive " alt=" " title=" ">
+                            <img src="/assets/images/clients/logo4.png" class="img-responsive " alt=" " title=" ">
+                        </div>
+                    </div>
+
+                    <div class="item ">
+
+                        <div class="client-item-img ">
+                            <img src="/assets/images/clients/logo5.png" class="img-responsive " alt=" " title=" ">
                         </div>
                     </div>
 

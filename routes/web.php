@@ -12,5 +12,11 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
+    return view('home')->withOnlySideBarInternalLinks(true);
+})->name("home");
+
+Route::get('/services/ab-automart', function () {
+    return view('single-services.abautomart');
+})->name('services.abautomart');
+
+Route::post('/contact',"ContactUsController@sendMail")->name('contactUs');

@@ -9,11 +9,6 @@
 
                     <h2 class="title-h2">Our Services </h2>
 
-                    <p class="font-p mg-tp-30 mg-bt-30">
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
-
-                    </p>
-
                 </div>
 
                 <div class="project-holder">
@@ -32,9 +27,9 @@
 
                         <div class="row">
 
-                            @include('layout.serviceblock',['name'=>'AB AUTO MART','url'=>'dsfds','imageName'=>'1.jpg'])
-                            @include('layout.serviceblock',['name'=>'','url'=>'','imageName'=>'1.jpg'])
-                            @include('layout.serviceblock',['name'=>'','url'=>'','imageName'=>'1.jpg'])
+                            @include('layout.serviceblock',['name'=>'AB AUTOMART','url'=>route('services.abautomart'),'folder'=>'abautomart','title'=>'VEHICLE TRADE'])
+                            @include('layout.serviceblock',['name'=>'Spicy Kade','url'=>route('services.abautomart'),'folder'=>'spicyKade','title'=>'SPICY TRADE'])
+                            @include('layout.serviceblock',['name'=>'AB AUTOMART','url'=>route('services.abautomart'),'folder'=>'abautomart','title'=>'VEHICLE TRADE'])
 
                         </div>
 

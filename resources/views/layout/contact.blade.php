@@ -12,8 +12,6 @@
                     <h2 class="title-h2  ">You can contact us</h2>
 
                     <p class="font-p mg-tp-30 mg-bt-30 ">
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
-
                     </p>
 
 
@@ -24,26 +22,22 @@
 
                     <div class="content-map">
 
-                        <form action="#" method="get">
+                        <form action="{{route('contactUs')}}" method="POST">
+                            @csrf
 
-
-                            <div class="row form-group">
-
-                                <div class="col-lg-6">
-                                    <input type="text" name="field-name" class="form-control" placeholder="Name">
-                                </div>
-                                <div class="col-lg-6">
-                                    <input type="email" name="field-name" class="form-control" placeholder="Email">
-                                </div>
-
+                            <div class="form-group">
+                                <input type="text" name="field-name" class="form-control" placeholder="Name" required>
                             </div>
 
                             <div class="form-group">
-                                <textarea class="form-control" rows="4" cols="3" placeholder="Your message "></textarea>
+                                <input type="email" name="field-name" class="form-control" placeholder="Email" required>
+                            </div>
 
+                            <div class="form-group">
+                                <textarea class="form-control" rows="4" cols="3" placeholder="Your message " required></textarea>
                             </div>
                             <div class="form-group">
-                                <button type="submit" class="btn btn-blue">Send your message </button>
+                                <button type="submit" class="btn btn-blue">Send message</button>
                             </div>
                         </form>
 

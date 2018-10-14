@@ -24,7 +24,7 @@
 
                     <div class="icon-service">
 
-                        <img src="assets/images/magic-wand.svg" alt="">
+                        <img src="/assets/images/magic-wand.svg" alt="">
                     </div>
 
                     <h3>Design & Coding</h3>
@@ -39,7 +39,7 @@
             <div class="col-lg-4 col-md-4">
                 <div class="service-block">
                     <div class="icon-service">
-                        <img src="assets/images/brain.svg" alt="">
+                        <img src="/assets/images/brain.svg" alt="">
                     </div>
 
                     <h3>Brainstorming</h3>
@@ -54,7 +54,7 @@
             <div class="col-lg-4 col-md-4">
                 <div class="service-block">
                     <div class="icon-service">
-                        <img src="assets/images/megaphone.svg" alt="">
+                        <img src="/assets/images/megaphone.svg" alt="">
                     </div>
 
                     <h3>Digital Marketing</h3>
