@@ -25,11 +25,16 @@
 
                     <div class="projetc-inner">
 
-                        <div class="row">
+                        <div class="row ">
 
-                            @include('layout.serviceblock',['name'=>'AB AUTOMART','url'=>route('services.abautomart'),'folder'=>'abautomart','title'=>'VEHICLE TRADE'])
-                            @include('layout.serviceblock',['name'=>'Spicy Kade','url'=>route('services.abautomart'),'folder'=>'spicyKade','title'=>'SPICY TRADE'])
-                            @include('layout.serviceblock',['name'=>'AB AUTOMART','url'=>route('services.abautomart'),'folder'=>'abautomart','title'=>'VEHICLE TRADE'])
+                            <div class="col-lg-4 col-md-4" >
+                            </div>
+                            <div class="col-lg-4 col-md-4" >
+                                @include('layout.serviceblock',['name'=>'AB AUTOMART','url'=>route('services.abautomart'),'folder'=>'abautomart','title'=>'VEHICLE TRADE'])
+                            </div>
+                            {{--@include('layout.serviceblock',['name'=>'Spicy Kade','url'=>route('services.abautomart'),'folder'=>'spicyKade','title'=>'SPICY TRADE'])--}}
+                            {{--@include('layout.serviceblock',['name'=>'AB AUTOMART','url'=>route('services.abautomart'),'folder'=>'abautomart','title'=>'VEHICLE TRADE'])--}}
+
 
                         </div>
 

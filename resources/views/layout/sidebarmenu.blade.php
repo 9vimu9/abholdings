@@ -31,14 +31,14 @@
             {{--<li class="nav-item">--}}
                 {{--<a data-scroll="" class="nav-link section-scroll" href="#blog">Blog</a>--}}
             {{--</li>--}}
-            <li>
-                <a data-scroll="" href="{{route('home')}}#testimonials" class="nav-link section-scroll">Testimonials</a>
-            </li>
+            {{--<li>--}}
+                {{--<a data-scroll="" href="{{route('home')}}#testimonials" class="nav-link section-scroll">Testimonials</a>--}}
+            {{--</li>--}}
             <li>
                 <a data-scroll="" href="{{route('home')}}#contact" class="nav-link section-scroll">Contact</a>
             </li>
 
-            <li class="menu-contact mg-tp-40"><a target="_blank" href="https://www.facebook.com/ABautomart/">Facebook<i class="social_facebook"></i></a></li>
+            <li class="menu-contact mg-tp-40"><a target="_blank" href="{{config('details.facebook_url')}}">Facebook<i class="social_facebook"></i></a></li>
             <li class="menu-contact"><a target="_blank" href="#">Twitter<i class="social_twitter"></i></a></li>
             <li class="menu-contact"><a target="_blank" href="#">google plus<i class="social_googleplus"></i></a></li>
             <li class="menu-contact"><a target="_blank" href="#">Instagram<i class="social_instagram"></i></a></li>

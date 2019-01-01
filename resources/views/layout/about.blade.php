@@ -39,7 +39,7 @@
                         <div class="col-md-6 col-lg-6">
                             <div class="icon-block ">
 
-                                <img src="/assets/images/browser.svg" alt="">
+                                <img src="/assets/images/logos/tourism.png" alt="">
                                 <h3>TOURISM</h3>
                                 <p>
                                     Let the soul pour with exhilaration of belovedness inherited over generations.
@@ -55,7 +55,7 @@
 
                             <div class="icon-block ">
 
-                                <img src="/assets/images/startup.svg" alt="">
+                                <img src="/assets/images/logos/vehicle.png" alt="">
                                 <h3>VEHICLES</h3>
                                 <p>
                                     A vehicle is your ardent partner in ride. To make your vehicle dream comes true AB Automart stands
@@ -69,21 +69,20 @@
                         <div class="col-md-6 col-lg-6">
                             <div class="icon-block ">
 
-                                <img src="/assets/images/bag.svg" alt="">
+                                <img src="/assets/images/logos/resturant.png" alt="">
                                 <h3>RESTAURANT CHAIN</h3>
                                 <p>Camaro the taste hub invites for sensation of scrummy-yummy steak revenous hunger.
                                     Let mouth and throat to decide the delicious of bet steak ever
                                 </p>
 
                             </div>
-/
 
                         </div>
 
                         <div class="col-md-6 col-lg-6">
                             <div class="icon-block ">
 
-                                <img src="/assets/images/chat.svg" alt="">
+                                <img src="/assets/images/logos/spice.png" alt="">
                                 <h3>SPICES</h3>
                                 <p>The ultimate boutique experience of aromatic, amazeballs condiment are just easy now as never had.</p>
 

@@ -18,19 +18,19 @@
 
 
                                 <div class="logo-footer">
-                                    <img src="/assets/images/logo-white.png" alt="">
+                                    <img src="/assets/images/logos/holdings.png" alt="">
 
                                 </div>
-                                <div class="text-footer">
-                                    <p>
-                                        Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-                                    </p>
-                                </div>
+                                {{--<div class="text-footer">--}}
+                                    {{--<p>--}}
+                                        {{--Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.--}}
+                                    {{--</p>--}}
+                                {{--</div>--}}
 
 
-                                <ul class="list-social list-inline">
+                                <ul class="list-social list-inline" style="padding-left: 25px;">
                                     <li>
-                                        <a href="#"   class="btn btn-circle btn-facebook">
+                                        <a href="{{config('details.facebook_url')}}"   class="btn btn-circle btn-facebook">
                                             <i class="social_facebook "></i>
                                         </a>
                                     </li>

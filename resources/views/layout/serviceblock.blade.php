@@ -1,4 +1,4 @@
-<div class=" col-lg-4 col-md-4">
+<div class="">
 
     <div class="filter all branding Web-design  other Graphic-design">
 
@@ -26,12 +26,12 @@
                         </div>
                     </div>
                 </div>
-                <div>{{$title}}</div>
 
 
 
 
             </div>
+            <h3 class="title-h3" style="margin-top: 10px;">{{$title}}</h3>
 
 
         </div>

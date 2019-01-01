@@ -9,9 +9,9 @@
     {{--@include('layout.services')--}}
     {{--@include('layout.numbers')--}}
     {{--@include('layout.team')--}}
-    @include('layout.testimonials')
+    {{--@include('layout.testimonials')--}}
     @include('layout.contact')
-    @include('layout.sponsors')
+    {{--@include('layout.sponsors')--}}
 
 @endsection
 

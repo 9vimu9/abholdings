@@ -6,8 +6,9 @@ return [
 
     'telephone' => "23232323232",
 
-    'email' => "",
+    'email' => "info@abholdings.com",
 
     'address' => "",
+    'facebook_url' => "https://www.facebook.com/ABautomart/",
 
 ];

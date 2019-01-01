@@ -3,13 +3,13 @@
     <nav class="navbar navbar-expand-lg fixed-top">
 
 
-        <a class="navbar-brand" href="{{route('home')}}"><img src="/assets/images/logo.png" alt=""></a>
+        <a class="navbar-brand" href="{{route('home')}}"><img src="/assets/images/logos/holdings.png" alt=""></a>
 
-        <div class="ml-auto right-nav">
+        <div class="ml-auto right-nav" style="padding-left: 50px;">
             <ul>
 
                 <li>
-                    <a href=""><i class="icon_phone"></i>{{config('details.telephone')}}</a>
+                    <a href="" style="font-size: 30px;     padding-right: 20px;"><i class="icon_mail"></i>{{config('details.email')}}</a>
 
                 </li>
 
