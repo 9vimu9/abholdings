@@ -2185,12 +2185,14 @@ footer p.sucess-message {
     font-size: 16px;
 }
 .footer-top .list-menu a{
-    line-height: 28px;
-  color: #adafc7;  
+    line-height: 45px;
+    font-size: 25px;
+    color: #640613;
 }
 .list-contact li{
-  color:#adafc7; 
-    line-height: 32px;
+    color:#adafc7;
+    line-height: 45px;
+    font-size: 25px;
 }
 
 .subscribe-form .form-control {
@@ -2245,4 +2247,8 @@ footer p.sucess-message {
     display: block;
     /*background-color:rgba(23,31,60,0.45);*/
 
+}
+
+.footer h2{
+    color: #ecf2ff;
 }

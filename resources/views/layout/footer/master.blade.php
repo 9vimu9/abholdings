@@ -62,16 +62,16 @@
 
                             <div class="col-lg-4 col-md-4">
 
-                                <h5>Contact </h5>
+                                <h2>Contact Us </h2>
 
                                 <ul class="list-contact">
 
                                     <li>
-                                       {{config('details.address')}}
+                                        <i class="icon_house"></i> {{config('details.address')}}
                                     </li>
-                                    <li> {{config('details.telephone')}}</li>
+                                    <li><i class="icon_phone"></i> {{config('details.telephone')}}</li>
 
-                                    <li> {{config('details.email')}}</li>
+                                    <li> <i class="icon_mail"></i> {{config('details.email')}}</li>
 
 
                                 </ul>

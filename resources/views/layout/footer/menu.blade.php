@@ -1,5 +1,5 @@
 
-<h5>Menu</h5>
+<h2>Menu</h2>
 
 <ul class="list-menu">
     <li>
