@@ -26,7 +26,7 @@
 
 
                     <p class="font-weight-bold mg-tp-30 mg-bt-20">
-                        Today we are a heart winning products and service provider leading a way to betterment of the humankind.
+                        Today We are not only a heart winning product source also a service provider leading a way to the betterment of the humankind
                     </p>
 
 
@@ -72,7 +72,7 @@
                                 <img src="/assets/images/logos/resturant.png" alt="">
                                 <h3>RESTAURANT CHAIN</h3>
                                 <p>Camaro the taste hub invites for sensation of scrummy-yummy steak revenous hunger.
-                                    Let mouth and throat to decide the delicious of bet steak ever
+                                    Let mouth and throat to decide the delicious of best steak ever
                                 </p>
 
                             </div>

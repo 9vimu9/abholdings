@@ -19,4 +19,10 @@ Route::get('/services/ab-automart', function () {
     return view('single-services.abautomart');
 })->name('services.abautomart');
 
+Route::get('/csr/api', function () {
+    return view('single-services.api');
+})->name('services.api');
+
+
+
 Route::post('/contact',"ContactUsController@sendMail")->name('contactUs');

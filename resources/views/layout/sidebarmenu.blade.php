@@ -25,6 +25,10 @@
             <li class="nav-item">
                 <a data-scroll="" class="nav-link section-scroll" href="{{route('home')}}#portfolio">Services</a>
             </li>
+
+            <li class="nav-item">
+                <a data-scroll="" class="nav-link section-scroll" href="{{route('home')}}#csr">CSR</a>
+            </li>
             {{--<li class="nav-item">--}}
                 {{--<a data-scroll="" class="nav-link section-scroll" href="#team">Team</a>--}}
             {{--</li>--}}

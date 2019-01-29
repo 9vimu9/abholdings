@@ -10,6 +10,7 @@
     {{--@include('layout.numbers')--}}
     {{--@include('layout.team')--}}
     {{--@include('layout.testimonials')--}}
+    @include('layout.csr')
     @include('layout.contact')
     {{--@include('layout.sponsors')--}}
 
